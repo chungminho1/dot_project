@@ -4,4 +4,5 @@ For object tracking, please refer to https://github.com/chungminho1/dot_project_
 
 If you want dot pad rendering code, please contact to https://pad.dotincorp.com/
 
-Demo video: TBD
+[Demo video](https://youtu.be/PFh-dIhsbvk)
+[Tutorial video](https://youtu.be/Y4Faj8nj_UU)
